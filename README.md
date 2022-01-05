@@ -1,7 +1,7 @@
 # KISWIRE DEV TESTING PROGRAM
 
 Developer : Sheik Hazrin Bin Sheik Othman
-Email : sheikhazrin@gmail.com
+Email : sheikhazrin@outlook.com
 
 ## Task 1
 
